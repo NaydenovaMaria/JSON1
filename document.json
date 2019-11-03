@@ -1,0 +1,21 @@
+{
+ "name":"Vadim",
+ "surname":"Ksendzov",
+ "age":65,
+	"profession":"QA",
+	"Address":{"street":"Plehanova", 
+"house":72,
+"Apartment":172},
+"family_status":"married",
+"Job":{"company":"epam",
+"work_position":"ceo"},
+"his_child": {"his_child`s_name":"Andrey",
+		"His_child`s_age":25,
+		"Andrey`s_child":{"Andrey_child`s_name":"Peter",
+				"Peter`s_occupation":"QC"}},
+"area":{"area_native":"turkey",
+	"religia":"catholic",
+	"nationality":"kurd"}
+}
+
+ 
